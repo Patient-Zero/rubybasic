@@ -1,2 +1,0 @@
-# rubybasic
-Ruby Basic
